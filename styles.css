@@ -1,19 +1,19 @@
 .link {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 html {
-    font-family: Helvetica, sans-serif;
-    font-size: 12px;
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
 }
 
 #navbar {
-    position: fixed;
-    top: 0;
+  position: fixed;
+  top: 0;
 }
 
-@media (min-width: 1000px) {
-    * {
-        font-size: 13px;
-    }
-}
+/* @media (min-width: 1000px) {
+  * {
+    font-size: 13px;
+  }
+} */
